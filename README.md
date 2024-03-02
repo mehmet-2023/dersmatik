@@ -56,4 +56,4 @@ Ana program analizler yapmanızı sağlar ve hakkınızda yapılan değerlendirm
 
 Admin programı ile haftalarını gönderen öğrenciler için değerlendirme yazabilirsiniz.
 # Lisans
-Program MIT Lisansı altındadır. Programı kurumsal olarak kullanmak veya destek almak için için iletişime geçebilirsiniz. E-Posta adresim: **[mefeocal455@gmail.com](mailto:mefeocal455@gmail.com)**
+Program MIT Lisansı altındadır. Programı kurumsal olarak kullanmak veya destek almak için iletişime geçebilirsiniz. E-Posta adresim: **[mefeocal455@gmail.com](mailto:mefeocal455@gmail.com)**
