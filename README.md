@@ -47,9 +47,13 @@ Programı şimdi kullanabileceksiniz.
 # Uygulama İşlevi
 Uygulama üç ana programdan oluşur: İşlemleri yapabileceğiniz dersmatik.py dosyası, yöneticinin kullanacağı admin.py dosyası ve sınıflara katılabileceğiniz online.py dosyası.  
 Sınıf sistemi ile sınıfın ilerlemesini görebilir veya öğrenci sorgulaması yapabilirsiniz.
+
 ![Sinif](https://i.ibb.co/nncDmsv/resim-2024-03-02-210433626.png)
+
 Ana program analizler yapmanızı sağlar ve hakkınızda yapılan değerlendirmeleri görebilirsiniz. Haftayı gönder ile verilerinizin admine ulaşmasını sağlarsınız.
+
 ![Main](https://i.ibb.co/N9fjPj7/resim-2024-03-02-210711881.png)
+
 Admin programı ile haftalarını gönderen öğrenciler için değerlendirme yazabilirsiniz.
 # Lisans
 Program MIT Lisansı altındadır. Programı kurumsal olarak kullanmak veya destek almak için için iletişime geçebilirsiniz. E-Posta adresim: **[mefeocal455@gmail.com](mailto:mefeocal455@gmail.com)**
