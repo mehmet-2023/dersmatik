@@ -34,14 +34,14 @@ Uygulamayı iki şekilde kullanabilirsiniz: Firebase anahtarsız veya firebase a
  Kaynak kodlarını bu klasöre kopyalayın.
  Pydroid3 uygulamasını kurun.
  Uygulamada terminal sayfasına geçin.
- terminale **pip install tk, firebase_admin, matplotlib, requests, subprocess, json** kodunu yazın. Eğer isterseniz uygulamanın pip kısmından gereksinimleri teker teker yükleyebilirsiniz.
+ terminale **pip install tk firebase_admin matplotlib requests subprocess json** kodunu yazın. Eğer isterseniz uygulamanın pip kısmından gereksinimleri teker teker yükleyebilirsiniz.
  Üç dosyada da **conn = sqlite3.connect("databases.db")** yazan satırı bulun ve kodu şu şekilde düzeltin:
   >conn = sqlite3.connect("/storage/emulated/0/Download/Dersmatik/databases.db")
 
 *Klasör açmak için ZArchiver kullanabilirsiniz.*
 # Bilgisayarda Kullanım
 Python 3.11(Opsiyonel) sürümünü kurun ve kurarken **customize installation** 'ı seçerek **Add Python to envoriment varibles** kutucuğunu işaretleyin ve ilerleyerek kurulumu tamamlayın.
-Cmd'yi açın - (windows + R) -----> cmd kısayolunu deneyebilirsiniz- ve komut satırına şu kodu girin: **pip install tk, firebase_admin, matplotlib, requests, subprocess, json** .
+Cmd'yi açın - (windows + R) -----> cmd kısayolunu deneyebilirsiniz- ve komut satırına şu kodu girin: **pip install tk firebase_admin matplotlib requests subprocess json** .
 Programı şimdi kullanabileceksiniz.
 ### Kurulum işlemini yaparken okulunuzun bilişim bölümünden destek almanızı öneririz.
 # Uygulama İşlevi
